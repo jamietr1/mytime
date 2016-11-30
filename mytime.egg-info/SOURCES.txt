@@ -1,0 +1,9 @@
+MANIFEST.in
+README.rst
+setup.py
+mytime/__init__.py
+mytime.egg-info/PKG-INFO
+mytime.egg-info/SOURCES.txt
+mytime.egg-info/dependency_links.txt
+mytime.egg-info/not-zip-safe
+mytime.egg-info/top_level.txt
